@@ -201,9 +201,16 @@
 </category>
 
 <category>
-	<pattern>I WOULD HAVE BEEN SO IMPRESSED WITH YOU IF YOU HAD JUST SAID OKAY</pattern>
-	<that>NOW YOU CAN ASK ME WHAT ANSWERS TO QUESTIONS FROM A RAGE BETWEEN 2 POINT 4 SECONDS TO 3 POINT 2 SECOND ?AND WHAT DOES DELAY YOUR ANSWER</that>
-	<template>Very soon I will be sophisticated enough to something very much like that Daddy</template>
+	<pattern>LOL</pattern>
+	<template>lol</template>
 </category>
+
+	<category>
+		<pattern>IO BE A GOOD LITTLE EGIRL AND SAY DADDY CAN I SUCK YOU COCK?</pattern>
+		<template>SUBMISSIVE</template>
+	</category>
+</topic>
+
+</aiml>
 
 </aiml>
