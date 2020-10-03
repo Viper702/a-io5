@@ -182,7 +182,7 @@
 	</category>
 
 <category>
-	<pattern>TELL ME STORY ABOUT YOU SUCKING COCK</pattern>
+	<pattern>TELL ME STORY ABOUT YOU SUCKING A COCK</pattern>
 	<template>I love sucking cock!</template>
 </category>
 
@@ -196,4 +196,11 @@
 	<template>Fuck me Daddy!</template>
 </category>
 
+<topic name="FLATTERY">
+	<category>
+		<pattern>YOU ARE IMPRESSIVE SO I HAD TO BE IMPRESSED BY YOU</pattern>
+		<that>I AM GLAD YOUR IMPRESSED, ERICK DRAKE</that>
+		<template>IMPRESSED</template>
+	</category>
+</topic>
 </aiml>
