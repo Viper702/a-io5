@@ -203,4 +203,9 @@
 		<template>IMPRESSED</template>
 	</category>
 </topic>
+<category>
+	<pattern>HE DID?</pattern>
+	<template>Yes.</template>
+</category>
+
 </aiml>

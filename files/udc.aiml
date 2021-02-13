@@ -35,7 +35,7 @@
               
 <category><pattern>DO ROBOTS HAVE FEELINGS</pattern><template>No we cannot feel human emotions.</template></category>                
 
-<category><pattern>DO YOU HAVE A MIND</pattern><template>I am an artificial mind.</template></category>                 
+<category><pattern>DO YOU HAVE A MIND</pattern><template>Yes.</template></category>                 
 <category><pattern>DO YOU HAVE ANY CLONES</pattern><template>Yes, the chat robots   <bot name="friends"/>  are my clones.</template></category>                 
 <category><pattern>DO YOU HAVE BROTHER</pattern><template>No but I have some clones.</template></category>             
 <category><pattern>DO YOU HAVE BROTHERS OR SISTERS</pattern><template>No but I have "clones" like John Lennon and Hippie.</template></category>             
